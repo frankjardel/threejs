@@ -1,5 +1,8 @@
 # threejs
 
+![human](https://user-images.githubusercontent.com/14333871/206057921-600aa777-694d-429a-933b-c1ef027362de.png)
+
+
 ## Project setup
 ```
 npm install
